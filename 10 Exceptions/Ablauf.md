@@ -1,0 +1,17 @@
+
+# Exceptions
+- Exception-Hierarchie: https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+- Herausfinden, welche Exception ein Fehler auslöst
+- Exception manuell auslösen (raise)
+- try...except
+  - Mehrere Exceptions auf einmal (Hierarchy)
+    - Warum man nicht alle Exceptions catchen sollte
+  - Mehrere Exceptions auf einmal (Verschiedene Klassen angeben)
+  - Mehrere except-blöcke
+- else
+  - Wo ist der Unterschied dazu, es in try... zu schreiben?
+- finally
+  - Warum sollte man das überhaupt verwenden?
+- Übung 1
+
+
