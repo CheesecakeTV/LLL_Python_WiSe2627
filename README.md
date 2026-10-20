@@ -1,5 +1,5 @@
 
-# Python-Kurs LLL 2026
+# Python-Kurs LLL WiSe 26-27
 Offizielles Repository für den LLL Python-Kurs im WISE 26-27.
 
 # Bevor es losgeht
@@ -16,7 +16,7 @@ Pünktlich um 20:00 Uhr, meistens auf die Minute genau.
 
 Der erste Termin steht noch nicht fest.
 
-# FAQ (Aktualisiert am 08.08.2026)
+# FAQ (Aktualisiert am 20.10.2026)
 
 Wie kann ich am Kurs teilnehmen?
 > Komm zum entsprechenden Termin in den Discord-Kanal.

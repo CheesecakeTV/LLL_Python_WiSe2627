@@ -26,5 +26,4 @@
 - while-Schleifen (Wichtig für Übung)
 - Übung 2
 
-Ende E2, 28.05.2026
 

@@ -37,7 +37,6 @@
   - Alles "selbstgemachte"
   - Die meisten Objekte aus anderen Packages
 - Typehinting mit Tupels
-- Stand 25.06.2026, Einheit 5
 - Übung 2 (In Abschnitten zusammen lösen?)
 
 # Unpacking
@@ -45,4 +44,3 @@
   - Funktionen mit mehrfacher Rückgabe
 - "Zu viele Elemente" mit Stern aufnehmen
   - Stern bei Funktionen
-- Stand 02.07.2026, Einheit 6
