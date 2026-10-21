@@ -1,6 +1,7 @@
 
 # Dateien
 - Lesen und schreiben mit Kontext-Manager
+  - Tipp: Beim Testen Dateien nicht überschreiben
 - bytes
   - Bytes lesen/schreiben
     - Warum sollte man das tun? (Dateitypen)
@@ -15,6 +16,7 @@
   - with_stem, with_suffix
 - parent
 - mkdir
+- pathlib.iterdir
 - Übung 2
 
 # json

@@ -23,6 +23,10 @@
 
 # Übungen
 - Block an Inhalt, Übung als "Hausaufgabe"
+- Ich gebe Feedback zu Abgaben
+  - Unvollständige Abgaben sind in Ordnung
+- Übungen werden i.d.R. in der "Vorlesung" besprochen
+  - Gibt es keine Abgabe, wird die Übung meist nicht besprochen
 - Übungen anfangs nicht so anspruchsvoll, da bisher wenig Inhalt
   - Oft unerwartete Ergebnisse
 - Vollständige Übungseinheiten in der Vergangenheit schlecht angekommen
@@ -31,9 +35,10 @@
 - Nutzung von KI
 
 # Vor- und Nachteile von Python
-- Sehr einfach, dafür "langsam"
+- Vorurteil: Sehr einfach, dafür "langsam"
   - Laufzeitunterschied meist nur bei Benchmarks merklich
   - Viele Verbesserungen möglich (numpy, numba, etc.)
+- Entwurfskriterium: "Mach den häufigen Fall schnell"
 - Sehr umfangreich
 - "Python-Magie"
 - Wenig Sorgen um Datentypen
@@ -45,7 +50,6 @@
   - Anleitung dazu im Repo
 - Einfache mathematische Operationen
   - Klammern
-  - Inline-Operationen
 - Punkt statt Komma für float
 - Pfeiltasten nutzen, um vorherige Eingabe zu wiederholen
 - Skript funktioniert ganz genauso, liest einfach von oben nach unten

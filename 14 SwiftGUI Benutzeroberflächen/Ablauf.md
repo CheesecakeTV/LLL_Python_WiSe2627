@@ -2,6 +2,8 @@
 # Einleitung SwiftGUI
 - Warum Benutzeroberflächen?
   - Verschiedene Auswahlmöglichkeiten (Knopfmenü)
+- Warum SwiftGUI?
+  - Sehr ähnlich zu PySimpleGUI
 - Package installieren
 - Package importieren
 - Theme nutzen
@@ -23,7 +25,7 @@
 - Übung 1
 
 # Werte
-- Werte von keyed Elementen
+- Werte von Elementen aus v, w und elem holen
 - Werte ändern
 
 # Sonstiges

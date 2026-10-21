@@ -36,7 +36,7 @@
 - "Abweichender Bauplan"
 - Motivation: `.append` bei Listen soll die Liste selbst zurückgeben
 - super
-- Freiwillig Übung X (Wird nicht im Kurs besprochen)
+- Freiwillig Übung X als Praxisanwendung zu Klassen
 
 
 

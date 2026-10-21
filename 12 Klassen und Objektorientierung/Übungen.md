@@ -1,5 +1,5 @@
 
-# 1. Was ist "is" (5 Minuten)
+# 1. Was ist "is"
 Gegeben sei der folgende Codeausschnitt.
 Die Ausgabe der Print-Statements steht jeweils als Kommentar dahinter.
 ```py
@@ -37,7 +37,7 @@ print(x is y)
 Du musst dir das Verhalten nicht erklären können.
 Nimm es nur als Beispiel für Python-Magie.
 
-# 2. Dunder-Methoden (25 Minuten)
+# 2. Dunder-Methoden
 Erstelle die Klasse "Bruch".
 Diese Klasse soll einen mathematischen Bruch darstellen, erhält bei der Übergabe also Zähler und Nenner (beide `int`).
 Wird kein Nenner übergeben, soll dieser als `1` angenommen werden.
@@ -76,7 +76,7 @@ Diese wandelt eine Zahl in einen Bruch um.
 Nutze `x = round(x, 10)`, um die Zahl x auf 10 Nachkommastellen zu runden.
 Diese Genauigkeit ist ausreichend.
 
-# X. Praxisbeispiel (45 Minuten)
+# X. Praxisbeispiel
 In dieser Übung erstellst du Klassen, die ich so ähnlich selbst erstellt habe und häufig nutze.
 Da es für dich vermutlich noch etwas ungewohnt ist, etwas von diesem Umfang zu programmieren, führen dich die einzelnen Aufgabenpunkte dort durch.
 
@@ -96,7 +96,7 @@ my_file = DictFile("werte.json")
 print(my_file["Hallo"])   # Aus Datei gelesen
 ```
 
-## Teil 1. Klassen allgemein (35 Minuten):
+## Teil 1. Klassen allgemein
 Folge diesem Ablauf:
 1. Erstelle die Klasse `DictFile`.
 Beim Erstellen der Instanz wird ein Dateipfad übergeben, der als Attribut gespeichert wird.
@@ -124,7 +124,7 @@ Diese speichert die aktuellen Werte in einer separaten Datei.
 11.  Implementiere die Methode `load_backup(backup_from: str | Path)`.
 Diese läd im Backup gespeicherte Werte, so wie es `load()` tut.
 
-## Teil 2. Vererbung (10 Minuten)
+## Teil 2. Vererbung
 Anstatt als json abzuspeichern, sollen es Varianten deiner Klasse geben, die als `toml` und `pickle` abspeichern können.
 
 Nutze diese Bibliothek für `toml`: https://pypi.org/project/tomlkit/

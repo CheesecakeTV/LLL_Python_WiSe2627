@@ -1,7 +1,5 @@
 
-# 1. Einfacher Taschenrechner (20 Minuten)
-Du darfst in dieser Übung annehmen, dass der Nutzer keine unerlaubten Eingaben tätigt.
-
+# 1. Einfacher Taschenrechner
 Wir basteln in dieser Übung einen kleinen Taschenrechner.
 
 1. Erstelle die übliche Vorlage für SwiftGUI-Benutzeroberflächen.
@@ -9,6 +7,7 @@ Wir basteln in dieser Übung einen kleinen Taschenrechner.
 3. Füge die Knöpfe `+`, `-`, `*`, `/` hinzu.
 4. Wird einer der Knöpfe gedrückt, werden die Eingaben entsprechend verrechnet und das Ergebnis in das Text-Element geschrieben.
 5. Wird eines der Eingabefelder doppelt geklickt, soll es geleert werden. Bonuspunkte, wenn du es mit key-functions löst.
+6. Macht der Nutzer ungültige Eingaben und drückt auf einen Knopf, wird "err" als Ausgabe gezeigt.
 
 # 2. Große Layouts
 Baue folgendes Layout so genau wie möglich nach:\
