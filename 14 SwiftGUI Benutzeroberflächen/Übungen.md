@@ -1,5 +1,16 @@
 
-# 1. Große Layouts
+# 1. Einfacher Taschenrechner (20 Minuten)
+Du darfst in dieser Übung annehmen, dass der Nutzer keine unerlaubten Eingaben tätigt.
+
+Wir basteln in dieser Übung einen kleinen Taschenrechner.
+
+1. Erstelle die übliche Vorlage für SwiftGUI-Benutzeroberflächen.
+2. Füge zwei Input-Felder und einen Text hinzu. Die Inputs sind die Eingabe, der Text das Ergebnis.
+3. Füge die Knöpfe `+`, `-`, `*`, `/` hinzu.
+4. Wird einer der Knöpfe gedrückt, werden die Eingaben entsprechend verrechnet und das Ergebnis in das Text-Element geschrieben.
+5. Wird eines der Eingabefelder doppelt geklickt, soll es geleert werden. Bonuspunkte, wenn du es mit key-functions löst.
+
+# 2. Große Layouts
 Baue folgendes Layout so genau wie möglich nach:\
 ![](../assets/images/2026-09-14-15-51-18.png)
 
@@ -8,7 +19,7 @@ Natürlich muss es nicht auf einzelne Pixel genau sein, es geht um den Aufbau.
 Das verwendete Theme ist `sg.FourColors.SlateBlue`.
 
 
-# 2. Themes (Optional)
+# 3. Themes (Optional)
 Erstelle ein gutaussehendes Theme und teste es mit `sg.Examples.preview_all_elements()`.
 
 Gute Themata integriere ich mit deiner Erlaubnis gerne ins SwiftGUI-package.
@@ -19,7 +30,7 @@ Um auch das zu berücksichtigen, teste es mit Folgendem:
 sg.Examples.preview_all_elements(flip_disabled=True, flip_readonly=True)
 ```
 
-# 3. Popups
+# 4. Popups
 In dieser Übung erstellst du ein Popup, in welchem Elemente einer Liste ausgewählt werden können.
 
 Oben steht ein konfigurierbarer Text, in der Mitte jeweils eine Checkbox pro Option, darunter ein Knopf "Fertig":\
@@ -30,7 +41,7 @@ Wird "Fertig" angeklickt, schließt sich das Popup und ein `tuple` mit ausgewäh
 
 Wird das Popup-Fenster direkt geschlossen (über das x oben rechts), wird ein leeres Tuple zurückgegeben.
 
-# 4. Combined Elements
+# 5. Combined Elements
 In dieser Übung erstellst du ein combined Element, das es dem Nutzer ermöglicht, eine Farbe zu erzeugen:\
 ![](../assets/images/2026-09-14-15-01-17.png)
 ![](../assets/images/2026-09-14-15-01-38.png)

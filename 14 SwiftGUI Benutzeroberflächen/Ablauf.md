@@ -1,6 +1,37 @@
 
+# Einleitung SwiftGUI
+- Warum Benutzeroberflächen?
+  - Verschiedene Auswahlmöglichkeiten (Knopfmenü)
+- Package installieren
+- Package importieren
+- Theme nutzen
+- Vorschau über alle Themes
+- Layout aufbauen
+- Layout-Elemente
+  - Preview_all_elements
+  - Text
+  - Button
+  - Input
+  - Checkbox
 
-# Wiederholungen
+# Events
+- keys
+- default events
+- key-functions
+- bind_event
+  - sg.Event
+- Übung 1
+
+# Werte
+- Werte von keyed Elementen
+- Werte ändern
+
+# Sonstiges
+- Elemente in Variablen "ablegen"
+  - Walrus-Operator
+- Template-Funktionen
+
+# Wiederholungen (Früher Beginn von Teil 2)
 - Lange Tracebacks lesen
 - Keyed events und Key-functions
 - Beispiele zu key-functions
@@ -16,7 +47,7 @@
 - Separator
 - Notebook
   - TabFrame
-- Übung 1
+- Übung 2
 
 # Komplexere Elemente
 ## Listbox
@@ -45,7 +76,7 @@
 - Wie funktionieren Themes?
 - Eigene Themes entwerfen
   - Four Colors Themes
-- Übung 2 (Sehr optional)
+- Übung 3 (Sehr optional)
 
 # Popups
 - Motivation
@@ -58,7 +89,7 @@
 - "Rückgabe"
   - Standard-Rückgabe
 - Typed Popups
-- Übung 3
+- Übung 4
 
 # Combined elements
 - Motivation
@@ -68,7 +99,7 @@
 - init_window_creation_done
 - template für Combined Elements
 - Als Popup
-- Übung 4
+- Übung 5
 
 # Files
 - Werte eines Layouts "sammeln"
