@@ -14,19 +14,15 @@ In der Vergangenheit hat sich gezeigt, dass VS Code deutlich weniger einsteigerf
 Der Kurs findet jeden Donnerstag um 20:00 Uhr statt.
 Pünktlich um 20:00 Uhr, meistens auf die Minute genau.
 
-Der erste Termin steht noch nicht fest.
+Der erste Termin ist am 05.11.2026.
 
 # FAQ (Aktualisiert am 20.10.2026)
 
 Wie kann ich am Kurs teilnehmen?
-> Komm zum entsprechenden Termin in den Discord-Kanal.
+> Komm zum entsprechenden Termin in den Discord-Kanal
 
 Ist eine Anmeldung erforderlich?
-> Nein, hilft mir aber enorm dabei, die Themen auszulegen.
-
-Gibt es am Ende des Kurses ein Zertifikat?
-> Leider nein.
-> Du kannst dir nach dem Kurs aber definitiv in den Lebenslauf schreiben, dass du Python programmieren kannst.
+> Nein
 
 Findet der Kurs jede Woche statt?
 > Ja, immer am gleichen Termin.
@@ -37,8 +33,9 @@ Wie lange dauert eine Kurseinheit?
 
 Wird der Kurs aufgezeichnet?
 > Ja, aber nur aktive Teilnehmer erhalten Zugriff auf die die Aufnahme.
+> Außerdem ist in den anfänglichen Einheiten nur meine eigene Stimme zu hören.
 
-Werden die Mitschriften / Lösungen veröffentlicht?
+Werden Mitschriften / Lösungen veröffentlicht?
 > Ja.
 > Allerdings sind die Mitschriften meistens inkohärente Codestücke, mit denen man ohne die mündliche Erklärung nichts anfangen kann.
 
@@ -56,3 +53,6 @@ Muss ich im Kurs mitarbeiten?
 Muss ich absagen, wenn ich mal nicht dabei bin, oder zu spät komme?
 > Nein
 
+Gibt es am Ende des Kurses ein Zertifikat?
+> Leider nein.
+> Du kannst dir nach dem Kurs aber definitiv in den Lebenslauf schreiben, dass du Python programmieren kannst.
