@@ -13,6 +13,5 @@
 - f-Strings
   - var=
   - Unterstrich für Zahlen
-- Gibt keine Übungen, da mir hierzu keine eingefallen ist... Bin für Vorschläge offen
 
 

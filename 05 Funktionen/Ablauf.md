@@ -30,8 +30,10 @@
 # Rekursion
 - Motivation
   - Teil des Problems ist das gleiche Problem
+  - Aufzeichnen als Baum
 - Aufbau
   - Verankerung
   - Rekursionsschritt
   - Beispiel: Fibonacci
+    - Aufzeichnen als Baum
 - Übung 3

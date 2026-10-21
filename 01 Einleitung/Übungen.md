@@ -1,5 +1,5 @@
 
-# 1. Mit der Programmierumgebung vertraut machen (10 Minuten)
+# 1. Mit der Programmierumgebung vertraut machen
 Implementiere Folgendes:
 
 1. Der Nutzer gibt etwas auf der Konsole ein.

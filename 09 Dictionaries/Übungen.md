@@ -1,5 +1,8 @@
 
-# 1. Dictionary (10 Minuten)
+# 1. Dictionary
+Tipp: Bevor du diese Übung angehst, spiele etwas mit Dictionaries rum.
+Also füge Elemente hinzu, lies Elemente aus, usw.
+
 1. Erstelle die Funktion `printDict(dasDict: dict)`.
 Diese gibt den Inhalt von `dasDict` zeilenweise auf der Konsole aus.\
 Beispiel:
@@ -27,7 +30,7 @@ print(dasDict)  # {"Hallo": "Zusammen", "Python": "Kurs"}
 print(dasNeueDict)  # {"Hallo": "Welt", "Python": "Kurs", "NeuerKey": "Mir fällt nichts ein"}
 ```
 
-# 2. Dataclasses (15 Minuten)
+# 2. Dataclasses
 Beginne mit folgendem Codeausschnitt:
 ```py
 from dataclasses import dataclass
@@ -51,7 +54,7 @@ Jasmine Turner, 16
 
 2. Erstelle die Funktion `get_erwachsen(personen_liste)` (Kalkulation!).
 Diese erhält eine Liste von Personen und gibt eine Liste aus allen davon volljährigen Personen zurück.
-Füge auch möglichst konkrete Typehints hinzu.
+Füge auch sinnvolle Typehints hinzu.
 
 3. Füge der Klasse `Person` das Attribut `eltern` hinzu.
 Sind die Eltern bekannt, erhält es ein Tupel mit beiden Eltern-Personen.
@@ -61,7 +64,11 @@ Vergiss die Typehints nicht.
 4. Erstelle die Funktion `erstelle_kind(kind_informationen: Person, elternteil1, elternteil2)` (Kalkulation!).
 Diese gibt eine Person zurück, dessen Eltern die übergebenen Elternteile sind.
 Das Alter des Kindes ist `0`, Vor- und Nachname können `kind_informationen` entnommen werden.
-Wie immer, füge fehlende Typehints hinzu.
+Wie immer, füge fehlende Typehints hinzu.\
+So soll die Funktion beispielhaft genutzt werden können:
+```py
+kind = erstelle_kind(Person("Anton", "Müller"), alle_personen[0], alle_personen[1])
+```
 
 
 

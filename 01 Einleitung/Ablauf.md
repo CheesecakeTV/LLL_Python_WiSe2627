@@ -10,22 +10,21 @@
   - Nur für Kursteilnehmer
 - Abstrakte Inhalte, tiefes Verständnis
   - "Das haben wir gar nicht im Unterricht gemacht"
-- Zu spät kommen
+- Dauer 45-60 Minuten
+  - Zu spät kommen
 
 # Inhalt
-- Grundlagen (Bauen nur leicht aufeinander auf)
-- Fortgeschrittenes (Baut auf allen Grundlagen auf)
+- Grundlagen, bis Thema 12 (Bauen nur leicht aufeinander auf)
+- "Fortgeschrittenes" (Baut auf allen Grundlagen auf)
   - Mischen von einfachen und schwierigen Inhalten, um Übergang abzufedern
-- Besonderes Augenmerk auf Benutzeroberflächen
-  - Immer mal wieder eine Einheit dazu, in verschiedenen Schwierigkeiten
+- Grundlagen werden oft vergessen
+- Benutzeroberflächen
 - Kurz auf das Repo eingehen
 
 # Übungen
+- Block an Inhalt, Übung als "Hausaufgabe"
 - Übungen anfangs nicht so anspruchsvoll, da bisher wenig Inhalt
-- Block an Inhalt, danach Übung in Kleingruppen, oder wahlweise alleine
-  - Breakout Rooms
-  - Vorher festgelegte Dauer für Bearbeitung
-- Ab und zu Kahoot (Blooket), um Fähigkeiten zu prüfen
+  - Oft unerwartete Ergebnisse
 - Vollständige Übungseinheiten in der Vergangenheit schlecht angekommen
 - Extreeeeeeeeeem wichtig
 - Mit X nummerierte Übungen

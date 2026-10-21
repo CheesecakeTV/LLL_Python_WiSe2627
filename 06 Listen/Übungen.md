@@ -1,5 +1,5 @@
 
-# 1. Grundlegendes arbeiten mit Listen (10 Minuten)
+# 1. Grundlegendes arbeiten mit Listen
 Folgendes sei deine Einkaufsliste:
 ```py
 einkaufsliste = ["Apfel", "Brot", "Milch"]
@@ -20,7 +20,7 @@ Füge die Wünsche deiner Liste hinzu.
 7. Gib die komplette Liste aus.
 
 
-# 2. Mutable (Veränderbare) Objekte (20 Minuten)
+# 2. Mutable (Veränderbare) Objekte
 Sie dir den jeweiligen Codeausschnitt an und ermittle, was dabei auf der Konsole ausgegeben wird.
 
 **ERST DANACH**, führe den jeweiligen Ausschnitt aus, um deine Antwort zu überprüfen.
