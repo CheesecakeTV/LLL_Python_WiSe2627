@@ -42,4 +42,23 @@ Danach:
 
 4. Sortiere die Liste alphabetisch (nach den Vornamen) und speichere sie als `NamenlisteSortiert.txt` ab.
 
+# XX. Praxisnahe Übung
+Es wurde folgendes Experiment durchgeführt:\
+Ein Funksender sendet zufällige Ganzzahlen an einen Funkempfänger.
+Die Übertragung ist nicht perfekt, weswegen einige Zahlen falsch empfangen werden.
+
+`Übertragungskanal.csv` enthält die jeweils gesendete und empfangene Zahl.
+
+1. Wie groß ist die Wahrscheinlichkeit, dass eine gesendete Zahl falsch empfangen wird?
+
+Bei genauerer Betrachtung fällt etwas auf:\
+Meistens ist die Fehlerwahrscheinlichkeit deutlich geringer.
+Offenbar hat es während des Experiments einmal kurz angefangen zu regnen, was die Übertragung zeitweise DEUTLICH verschlechterte.
+
+Am Anfang und Ende des Experiments gab es keinen Regen.
+
+Die Fehlerwahrscheinlichkeit könnte sich also so verhalten:\
+![](../assets/images/FehlerWHK.png)
+
+2. Schätze ab, wie hoch die Fehlerwahrscheinlichkeit während des Regens und ohne Regen ist.
 
