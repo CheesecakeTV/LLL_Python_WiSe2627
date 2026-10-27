@@ -20,7 +20,7 @@ received = sent + error
 with open("Übertragungskanal.csv", "w") as f:
     f.write("n;sent;received\n")
     for n, (s, r) in enumerate(zip(sent, received)):
-        f.write(f"{n};{s};{r}")
+        f.write(f"{n};{s};{r}\n")
 
 # Diagramm
 from matplotlib import pyplot as plt
