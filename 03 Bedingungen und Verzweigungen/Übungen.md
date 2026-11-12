@@ -1,5 +1,5 @@
 
-# 1. Bedingungen (5 Minuten)
+# 1. Bedingungen
 **Nutze in dieser Übung kein `if`.**
 
 Erstelle 3 `int`-Variablen: x,y und z. Die Werte darfst du dir selbst aussuchen.
@@ -14,7 +14,7 @@ Kürzere Lösungen bekommen Zusatzpunkte.
 5. x ist nicht gleich 0
 6. x ist um maximal 5 zum Wert von y unterschiedlich
 
-# Übung 2 (20 Minuten)
+# Übung 2
 Tipp: Du kannst das Programm jeder Zeit mit `exit()` vom Skript aus stoppen.
 
 Implementiere Folgendes:
