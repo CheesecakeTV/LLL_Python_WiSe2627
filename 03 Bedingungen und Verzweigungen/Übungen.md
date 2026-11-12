@@ -14,7 +14,7 @@ Kürzere Lösungen bekommen Zusatzpunkte.
 5. x ist nicht gleich 0
 6. x ist um maximal 5 zum Wert von y unterschiedlich
 
-# Übung 2
+# 2. Mal eine etwas komplexere Übung
 Tipp: Du kannst das Programm jeder Zeit mit `exit()` vom Skript aus stoppen.
 
 Implementiere Folgendes:
